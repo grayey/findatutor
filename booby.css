@@ -1,0 +1,17 @@
+table
+{
+border: 2px solid black;	
+}
+th
+{
+background-color: gray;	
+color:antiquewhite;	
+}
+.badge{
+	float:right;
+	background-color:skyblue;
+	
+}
+ul{
+list-style:none;
+}
